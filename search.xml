@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F02%2F24%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>贝叶斯决策</title>
+      <link href="/2019/03/31/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%86%B3%E7%AD%96/"/>
+      <url>/2019/03/31/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%86%B3%E7%AD%96/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2019/03/31/贝叶斯决策/bayes01.jpg" alt title="贝叶斯"></p><h2 id="贝叶斯定理"><a href="#贝叶斯定理" class="headerlink" title="贝叶斯定理"></a>贝叶斯定理</h2><h2 id="贝叶斯公式"><a href="#贝叶斯公式" class="headerlink" title="贝叶斯公式"></a>贝叶斯公式</h2><h2 id="贝叶斯决策问题"><a href="#贝叶斯决策问题" class="headerlink" title="贝叶斯决策问题"></a>贝叶斯决策问题</h2><h2 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h2><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
